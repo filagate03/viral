@@ -1,0 +1,1 @@
+export default function Footer(){return <div style={{padding:12,opacity:.7}}>© Viral OS</div>}
