@@ -1,0 +1,1 @@
+import Header from '../components/Header';import Footer from '../components/Footer';export default function Home(){return <div><Header/><main className='card' style={{margin:16}}><h1>Viral OS</h1><p>MVP</p></main><Footer/></div>}
