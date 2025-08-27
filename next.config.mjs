@@ -1,0 +1,1 @@
+export default { reactStrictMode:true, i18n:{locales:['ru','en'], defaultLocale: process.env.DEFAULT_LOCALE || 'ru'} };
