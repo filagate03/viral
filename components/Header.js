@@ -1,0 +1,1 @@
+export default function Header(){return <div style={{padding:12}}><b>Viral OS</b></div>}
